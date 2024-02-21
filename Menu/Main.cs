@@ -1034,7 +1034,7 @@ hey this menu is made by 5ph1nxy enjoy.";
                 }
             }.AddComponent<Text>();
             text.font = activeFont;
-            text.text = "ii's <b>Stupid</b> Menu <color=grey>[</color><color=white>" + (pageNumber + 1).ToString() + "</color><color=grey>]</color>";
+            text.text = "5ph<b>1nxy's</b> Menu <color=grey>[</color><color=white>" + (pageNumber + 1).ToString() + "</color><color=grey>]</color>";
             if (annoyingMode)
             {
                 string[] randomMenuNames = new string[]
