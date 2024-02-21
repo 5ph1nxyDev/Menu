@@ -196,17 +196,13 @@ namespace iiMenu.Menu
                             }
                         }
                         motdTextB.text = @"
-You are using version 3.0p2. This menu was created by iiDk (@goldentrophy) on
-discord. This menu is completely free and open sourced, if you paid for this
-menu you have been scammed. There are a total of <b> " + fullModAmount + @" </b> mods on this
-menu. <color=red>I, iiDk, am not responsible for any bans using this menu.</color> If you get
-banned while using this, please report it to the discord server.";
+hey this menu is made by 5ph1nxy enjoy.";
                     }
                     catch { }
 
                     try
                     {
-                        Menu.UIColorHelper.bgc = OrangeUI.color;
+                        Menu.UIColorHelper.bgc = color.white
                         Menu.UIColorHelper.txtc = textColor;
                     }
                     catch { }
@@ -2138,7 +2134,7 @@ banned while using this, please report it to the discord server.";
             "Bananas are berries, but strawberries aren't.",
             "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.",
             "A group of flamingos is called a 'flamboyance.'",
-            "The shortest war in history was between Britain and Zanzibar on August 27, 1896 – Zanzibar surrendered after 38 minutes.",
+            "The shortest war in history was between Britain and Zanzibar on August 27, 1896 Â– Zanzibar surrendered after 38 minutes.",
             "Cows have best friends and can become stressed when they are separated.",
             "The first computer programmer was a woman named Ada Lovelace.",
             "A 'jiffy' is an actual unit of time, equivalent to 1/100th of a second.",
