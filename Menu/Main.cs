@@ -202,7 +202,7 @@ hey this menu is made by 5ph1nxy enjoy.";
 
                     try
                     {
-                        Menu.UIColorHelper.bgc = color.white
+                        Menu.UIColorHelper.bgc = OrangeUI.color
                         Menu.UIColorHelper.txtc = textColor;
                     }
                     catch { }
